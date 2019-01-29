@@ -2,4 +2,8 @@ venv
 .idea
 .vscode
 .ipynb_checkpoints
-input_data
+input_data/*.pdf
+input_data/equation_data
+input_data/equation_test_data
+input_data/differential_equations
+Tensorflow
